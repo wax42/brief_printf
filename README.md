@@ -10,9 +10,9 @@ Mon ft_pritnf etant a vomir, je vais faire une version brief_printf afin de pouv
 
 brief_print("%d %f %s", var, var1, var2);
 
-# AUTHORIZED FLAGS
+## AUTHORIZED FLAGS
 
-# D  AND F  AND S
+### D  AND F  AND S
 
 
 <a href="https://cdn.intra.42.fr/pdf/pdf/20/ft_printf.pdf"><b>SUJET</b></a>
